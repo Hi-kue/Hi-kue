@@ -6,8 +6,8 @@
 - Interested In :- Python, Crystal, Ruby, PHP, C#
 
 ### Connect with me:
-[<img align="left" alt="Hi-kue | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hi-kue | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Hi-kue | LinkedIn" width="22px" src="/Images/LinkedIn Icon.png" />][linkedin]
+[<img align="left" alt="Hi-kue | Instagram" width="22px" src="/Images/Instagram Icon.png" />][instagram]
 
 
 <br />

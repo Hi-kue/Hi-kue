@@ -1,14 +1,31 @@
 <img alt="Hi-kue | Background" src="/Images/Github/Summary.png">
 <br />
 
-
-### Connect with me:
+### CONNECT WITH ME:
 [<img align="left" alt="Hi-kue | LinkedIn" width="22px" src="/Images/LinkedIn Icon.png" />][linkedin]
 [<img align="left" alt="Hi-kue | Instagram" width="22px" src="/Images/Instagram Icon.png" />][instagram]
-
 <br />
 
-### Languages and Tools:
+### FEATURED LANGUAGES:
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Experience</th>
+    <th>Projects</th>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>1 - 2 Years</td>
+    <td>ConwaysGOL, LoginApp, Student Management System, School Management System</td>
+  </tr>
+  <tr>
+    <td>Dart & Flutter</td>
+    <td>6 Months</td>
+    <td>Soon in Repos</td>
+  </tr>
+</table>
+
+### LANGUAGES AND TOOLS:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="/Images/JavaScript Icon.png" />

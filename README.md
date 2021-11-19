@@ -1,4 +1,5 @@
 <img alt="Hi-kue | Background" src="/Images/Github/Summary.png">
+<br />
 
 ### FEATURED LANGUAGES:
 <table>

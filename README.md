@@ -1,4 +1,4 @@
-<img align="right" alt="Hi-kue | Background" height="400px" src="/Images/LinkedIn Banner.png">
+<img align="right" alt="Hi-kue | Background" width="400px" height="200px" src="/Images/LinkedIn Banner.png">
 
 ### Hi there, I'm Bilal - aka Hi-kue 
 

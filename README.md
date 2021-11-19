@@ -1,5 +1,4 @@
 <img alt="Hi-kue | Background" src="/Images/Github/Summary.png">
-<br />
 
 ### FEATURED LANGUAGES:
 <table>
@@ -31,7 +30,7 @@
   <tr>
     <td>JavaScript & Angular</td>
     <td>4.5 Months</td>
-    <td></td>
+    <td>Soon in Repos</td>
   </tr>
 </table>
 

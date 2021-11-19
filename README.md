@@ -1,6 +1,6 @@
-<img alt="Hi-kue | Background" width="400" height="200" src="/Images/Github/Banner.png">
+<img alt="Hi-kue | Background" src="/Images/Github/Banner.png">
 
-<img alt="Hi-kue | Background" width="400" height="200" src="/Images/Github/Summary.png">
+<img alt="Hi-kue | Background" src="/Images/Github/Summary.png">
 <br />
 
 

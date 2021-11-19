@@ -1,11 +1,6 @@
 <img alt="Hi-kue | Background" src="/Images/Github/Summary.png">
 <br />
 
-### CONNECT WITH ME:
-[<img align="left" alt="Hi-kue | LinkedIn" width="22px" src="/Images/LinkedIn Icon.png" />][linkedin]
-[<img align="left" alt="Hi-kue | Instagram" width="22px" src="/Images/Instagram Icon.png" />][instagram]
-<br />
-
 ### FEATURED LANGUAGES:
 <table>
   <tr>
@@ -22,6 +17,21 @@
     <td>Dart & Flutter</td>
     <td>6 Months</td>
     <td>Soon in Repos</td>
+  </tr>
+  <tr>
+    <td>Kotlin</td>
+    <td>1 - 2 Years</td>
+    <td>Soon in Repos</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>6.5 Months</td>
+    <td>2048 Game, Password Generator, Website Blocker, Content Aggregator</td>
+  </tr>
+  <tr>
+    <td>JavaScript & Angular</td>
+    <td>4.5 Months</td>
+    <td></td>
   </tr>
 </table>
 
@@ -40,6 +50,10 @@
 <br />
 <br />
 
+### CONNECT WITH ME:
+[<img align="left" alt="Hi-kue | LinkedIn" width="22px" src="/Images/LinkedIn Icon.png" />][linkedin]
+[<img align="left" alt="Hi-kue | Instagram" width="22px" src="/Images/Instagram Icon.png" />][instagram]
+<br />
 
 [instagram]: https://www.instagram.com/kakeru.png/
 [linkedin]: https://www.linkedin.com/in/hikue-mori-50713b215/

@@ -1,15 +1,10 @@
-<img align="right" alt="Hi-kue | Background" width="400px" height="200px" src="/Images/LinkedIn Banner.png">
+<img align="right" alt="Hi-kue | Background" width="400" height="200" src="/Images/Github/Banner.png">
+<img align="right" alt="Hi-kue | Background" width="400" height="200" src="/Images/Github/Summary.png">
 
-### Hi there, I'm Bilal - aka Hi-kue 
-
-## I'm a Normal Student, Drowning in Caffeine
-- Experienced :- JavaScript, Java, Kotlin, HTML, CSS
-- Interested In :- Python, Crystal, Ruby, PHP, C#
 
 ### Connect with me:
 [<img align="left" alt="Hi-kue | LinkedIn" width="22px" src="/Images/LinkedIn Icon.png" />][linkedin]
 [<img align="left" alt="Hi-kue | Instagram" width="22px" src="/Images/Instagram Icon.png" />][instagram]
-
 
 <br />
 

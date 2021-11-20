@@ -1,4 +1,4 @@
-<img alt="Hi-kue | Background" src="/Images/Github/Summary.png">
+<img alt="Hi-kue | Background" src="/Images/Github/LinkedIn Banner.gif">
 <br />
 
 ### FEATURED LANGUAGES:

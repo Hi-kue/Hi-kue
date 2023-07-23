@@ -3,7 +3,7 @@
 <h3 align="center">A tech-savvy developer who loves to learn new things.</h3>
 
 
-### FEATURED PROJECTS TABLE
+### Featured Projects & Experience
 ---
 
 Each project and language listed here are the languages that I prefer to work with and enjoy from time to time. The table below is constantly updated (lies) with new languages or projects that I eventually add into repositories.

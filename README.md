@@ -17,7 +17,7 @@
 
 <!--- ABOUT ME SECTION --->
 - 📤 I’m currently working on **[Dashboard](https://github.com/Hi-kue/dashboard)**
-- 📥 I’m currently learning **MERN, Astro, and React**
+- 📥 I’m currently learning **MERN, AstroJs, and React**
 - 📝 Ask me about **Gsap, Svelte & SvelteKit, JavaScript, C#, Go, Nim, Java**
 - 📬 Reach me at: [[LinkedIn](https://www.linkedin.com/in/hikue/)] ✧ [[CodePen](https://codepen.io/Hi-kue)] ✧ [[Gmail](mailto:hikue.primary@gmail.com)]
 

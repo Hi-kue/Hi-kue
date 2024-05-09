@@ -27,34 +27,29 @@
 <!--- REVAMPED ABOUT ME (LINUX STYLE) --->
 ## Short Bio
 
-```yaml
-hi-kue@github:~$
----
-Name: Hi-kue
-Title: Aspiring Backend Developer
-Location: Canada
-Timezone: EST
-OS: Windows 11, Linux (Ubuntu, POP!_OS, )
-Uptime: 20 Years, 5 Months
-Kernel: 5.4.0-91-generic
-
-Languages.Programming: Java, Python, C#, Go, Lua
-Languages.Web.Centric: HTML CSS, LaTeX, JavaScript, TypeScript, Markdown
-Language.Real: English, Urdu
-
-Focus:
----
-Focus.Role: Back-end Developer
-Focus.Languages: Python, Java
-Focus.Tools.Frameworks: Spring, Django, React, TailwindCSS, AstroJs
-Focus.Tools.Database: PostGreSQL, Firebase, Oracle
-Focus.Tools.DevOps: Jenkins, Docker
-Focus.Tools.Other: Unity, Blender, Figma
-
-Hobbies:
----
-Hobbies.Coding: Coding, Designing, Simulating / Modelling
-Hobbies.Extra: Reading, Bodybuilding
+```ansi
+\u001b[38;5;208mhi-kue\u001b[38;5;15m@\u001b[38;5;111mgithub\u001b[38;5;15m:\u001b[38;5;82m~\u001b[38;5;15m$ \u001b[0m
+\u001b[38;5;228m---\u001b[0m
+\u001b[38;5;121mName\u001b[38;5;15m: \u001b[38;5;214mHi-kue\u001b[0m
+\u001b[38;5;121mTitle\u001b[38;5;15m: \u001b[38;5;214mAspiring Backend Developer\u001b[0m
+\u001b[38;5;121mLocation\u001b[38;5;15m: \u001b[38;5;214mCanada\u001b[0m
+\u001b[38;5;121mTimezone\u001b[38;5;15m: \u001b[38;5;214mEST\u001b[0m
+\u001b[38;5;121mOS\u001b[38;5;15m: \u001b[38;5;214mWindows 11, Linux (Ubuntu, POP!_OS, )\u001b[0m
+\u001b[38;5;121mUptime\u001b[38;5;15m: \u001b[38;5;214m20 Years, 5 Months\u001b[0m
+\u001b[38;5;121mKernel\u001b[38;5;15m: \u001b[38;5;214m5.4.0-91-generic\u001b[0m
+\u001b[38;5;121mLanguages.Programming\u001b[38;5;15m: \u001b[38;5;214mJava, Python, C#, Go, Lua\u001b[0m
+\u001b[38;5;121mLanguages.Web.Centric\u001b[38;5;15m: \u001b[38;5;214mHTML CSS, LaTeX, JavaScript, TypeScript, Markdown\u001b[0m
+\u001b[38;5;121mLanguage.Real\u001b[38;5;15m: \u001b[38;5;214mEnglish, Urdu\u001b[0m
+\u001b[38;5;121mFocus\u001b[38;5;15m: \u001b[38;5;214m---\u001b[0m
+\u001b[38;5;121mFocus.Role\u001b[38;5;15m: \u001b[38;5;214mBack-end Developer\u001b[0m
+\u001b[38;5;121mFocus.Languages\u001b[38;5;15m: \u001b[38;5;214mPython, Java\u001b[0m
+\u001b[38;5;121mFocus.Tools.Frameworks\u001b[38;5;15m: \u001b[38;5;214mSpring, Django, React, TailwindCSS, AstroJs\u001b[0m
+\u001b[38;5;121mFocus.Tools.Database\u001b[38;5;15m: \u001b[38;5;214mPostGreSQL, Firebase, Oracle\u001b[0m
+\u001b[38;5;121mFocus.Tools.DevOps\u001b[38;5;15m: \u001b[38;5;214mJenkins, Docker\u001b[0m
+\u001b[38;5;121mFocus.Tools.Other\u001b[38;5;15m: \u001b[38;5;214mUnity, Blender, Figma\u001b[0m
+\u001b[38;5;121mHobbies\u001b[38;5;15m: \u001b[38;5;214m---\u001b[0m
+\u001b[38;5;121mHobbies.Coding\u001b[38;5;15m: \u001b[38;5;214mCoding, Designing, Simulating / Modelling\u001b[0m
+\u001b[38;5;121mHobbies.Extra\u001b[38;5;15m: \u001b[38;5;214mReading, Bodybuilding\u001b[0m
 ```
 
 I am a developer, thinking about code continuously. *Sounds pretty generic right?* Well it's true. I hate being defined by absolutes, so instead I prefer to be someone who is always `learning`, always `growing`, and seeking opportunities wherever they might be. As a human, my focus is to be the best version of myself for my career and for those around me.

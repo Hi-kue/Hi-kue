@@ -27,7 +27,7 @@
 <!--- REVAMPED ABOUT ME (LINUX STYLE) --->
 ## Short Bio
 
-```bash
+```yaml
 hi-kue@github:~$
 ---
 Name: Hi-kue
@@ -55,7 +55,6 @@ Hobbies:
 ---
 Hobbies.Coding: Coding, Designing, Simulating / Modelling
 Hobbies.Extra: Reading, Bodybuilding
-
 ```
 
 I am a developer, thinking about code continuously. *Sounds pretty generic right?* Well it's true. I hate being defined by absolutes, so instead I prefer to be someone who is always `learning`, always `growing`, and seeking opportunities wherever they might be. As a human, my focus is to be the best version of myself for my career and for those around me.

@@ -167,6 +167,18 @@ I am a developer, thinking about code continuously. *Sounds pretty generic right
   </a>
 </p>
 
+
+## Github Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hi-kue&theme=gruvbox" alt="Hi-kue's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-kue&theme=gruvbox&layout=compact" alt="Top Languages" style="width:41.5%"/>
+  </a>
+</div>
+
 ## Connect with me
 
 <p align="left">

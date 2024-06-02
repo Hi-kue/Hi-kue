@@ -35,7 +35,7 @@ Title: Aspiring Backend Developer
 Location: Canada
 Timezone: EST
 OS: Windows 11, Linux (Ubuntu, POP!_OS, )
-Uptime: 20 Years, 5 Months
+Uptime: 20 Years, 6 Months
 Kernel: 5.4.0-91-generic
 
 Languages.Programming: Java, Python, C#, Go, Lua
@@ -45,7 +45,7 @@ Language.Real: English, Urdu
 Focus:
 ---
 Focus.Role: Back-end Developer
-Focus.Languages: Python, Java
+Focus.Languages: Python, Java, Go
 Focus.Tools.Frameworks: Spring, Django, React, TailwindCSS, AstroJs
 Focus.Tools.Database: PostGreSQL, Firebase, Oracle
 Focus.Tools.DevOps: Jenkins, Docker

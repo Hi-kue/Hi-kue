@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Khan</h1>
 <h3 align="center">A [ Insert Plain, Boring, and Copypaste Subtitle Here. ]</h3>
 <h4 align="center">
-〗 
+ 〗 
   <a href="#about-me">About Me</a> ✧
   <a href="#experience">Experience</a> ✧
   <a href="#languages--tools">Languages & Tools</a> ✧
@@ -193,7 +193,6 @@ I am a developer, thinking about code continuously. *Sounds pretty generic right
   <!-- Connect: Dribble --->
   <a href="https://dribbble.com/hikue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hikue" height="50" width="50" />&nbsp;</a>
 </p>
-
 
 ## Buy Me A Coffee
 <p>

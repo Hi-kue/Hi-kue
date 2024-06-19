@@ -8,7 +8,7 @@
 <h4 align="center">
  〗 
   <a href="#about-me">About Me</a> ✧
-  <a href="#experience">Experience</a> ✧
+  <a href="#short-bio">Short Bio</a> ✧
   <a href="#languages--tools">Languages & Tools</a> ✧
   <a href="#connect-with-me">Connect</a> ✧
   <a href="#buy-me-a-coffee">Buy Me A Coffee</a>

@@ -20,7 +20,7 @@
 <!--- ABOUT ME SECTION --->
 - 📤 I’m currently working on **[openceJav/SpadeSuite]()**
 - 📥 I’m currently learning **AstroJS, Backend-Development, Python, Go**
-- 📝 Ask me about **C#, Go, Python, Java**
+- 📝 Ask me about **Go, TypeScript, Java, Python**
 - 📬 Reach me at: [[LinkedIn](https://www.linkedin.com/in/hikue/)] ✧ [[CodePen](https://codepen.io/Hi-kue)] ✧ [[Gmail](mailto:hikue.primary@gmail.com)]
 
 

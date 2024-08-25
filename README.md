@@ -200,3 +200,4 @@ I am a developer, thinking about code continuously. *Sounds pretty generic right
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=93727204)
+[![](https://visitcount.itsvg.in/api?id=Hi-kue&label=Profile%20Views&icon=9&pretty=true)](https://visitcount.itsvg.in)

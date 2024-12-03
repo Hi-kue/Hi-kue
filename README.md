@@ -35,7 +35,7 @@ Name: Hi-kue
 Title: Aspiring Backend Developer
 Location: Canada
 Timezone: EST
-OS: Windows 11, Linux (Ubuntu, POP!_OS, )
+OS: Windows 11, Linux (Ubuntu, POP!_OS)
 Uptime: 20 Years, 6 Months
 Kernel: 5.4.0-91-generic
 

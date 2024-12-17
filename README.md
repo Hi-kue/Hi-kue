@@ -72,17 +72,7 @@ I am a developer, thinking about code continuously. *Sounds pretty generic right
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white&logoWidth=25)
 ![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white&logoWidth=25)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white&logoWidth=25)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white&logoWidth=25)
-
----
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=306998&logoWidth=25)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F0DB4F&logoWidth=25)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white&logoWidth=25)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white&logoWidth=25)
-![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white&logoWidth=25)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white&logoWidth=25)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoWidth=25)
+![SQL](https://img.shields.io/badge/SQL-7F52FF?style=plastic&logo=sql&logoColor=white&logoWidth=25)
 
 <!-- Frontend -->
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB&logoWidth=25)

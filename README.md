@@ -1,6 +1,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hikue/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0D76A8)](https://codepen.io/Hi-kue)
-[![Profile Visits](https://visitcount.itsvg.in/api?id=Hi-kue&label=Profile%20Views&icon=9&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Visits](https://badges.pufler.dev/visits/Hi-kue/Hi-kue](https://badges.pufler.dev)
+
+
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
 

@@ -1,6 +1,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hikue/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0D76A8)](https://codepen.io/Hi-kue)
-[![Profile Visits](https://badges.pufler.dev/visits/Hi-kue/Hi-kue](https://badges.pufler.dev)
+[![Profile Visits](https://badges.pufler.dev/visits/Hi-kue/Hi-kue)
 
 
 

@@ -1,7 +1,5 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hikue/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0D76A8)](https://codepen.io/Hi-kue)
-[![Profile Visits](https://badges.pufler.dev/visits/Hi-kue/Hi-kue)]()
-
 
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
@@ -17,6 +15,10 @@
   <a href="#buy-me-a-coffee">Buy Me A Coffee</a>
 〖
 </h4>
+<div align="center">
+    <img alt="Github Visit Stats" 
+        src="https://widgetbite.com/stats/Hi-kue"/>  
+</div>
 <br>
 
 <!--- ABOUT ME SECTION --->

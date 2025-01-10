@@ -107,7 +107,6 @@ I am a developer, thinking about code continuously. *Sounds pretty generic right
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&logoWidth=25)
 
 <!-- Cloud -->
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=plastic&logo=microsoftazure&logoColor=white&logoWidth=25)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black&logoWidth=25)
 
 <!-- Tools & Frameworks -->

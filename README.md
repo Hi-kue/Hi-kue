@@ -142,7 +142,7 @@ and for those around me.
 
 ## Github Stats
 
-
+![Hi-kue Metrics](./assets/metrics.svg)
 
 ## Connect with me
 

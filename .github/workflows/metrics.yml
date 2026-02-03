@@ -36,21 +36,7 @@ jobs:
         plugin_notable: yes
         plugin_notable_from: all
 
-        # NOTE: Achievements/Trophies
-        plugin_achievements: yes
-        plugin_achievements_display: compact
-        plugin_achievements_threshold: C
-
-    - name: Streak & Activity
-      if: ${{ success() || failure() }}
-      uses: lowlighter/metrics@latest
-      with:
-        filename: assets/streak.svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: header, activity
-        plugin_isocalendar: yes
-        plugin_isocalendar_duration: half-year
+        # NOTE: Streak
         plugin_streak: yes
         plugin_streak_current: yes
         plugin_streak_max: yes
-        config_order: base.header, isocalendar, streak

@@ -2,9 +2,9 @@ name: Metrics
 on:
   schedule: [ { cron: "0 16 * * *" } ] # NOTE: Daily at 4 PM UTC
   workflow_dispatch:
-  push:
-    branches:
-    - main
+    # push:
+    #   branches:
+    #   - main
 jobs:
   metrics:
     runs-on: ubuntu-latest

@@ -4,17 +4,30 @@
 <h1 align="center">Hi 👋, I'm Bilal Khan</h1>
 <h3 align="center">A [ Insert Plain, Boring, and Copypaste Subtitle Here. ]</h3>
 <h4 align="center">
- 〗
-  <a href="#about-me">About Me</a> ✧
-  <a href="#short-bio">Short Bio</a> ✧
-  <a href="#languages--tools">Languages & Tools</a> ✧
-  <a href="#connect-with-me">Connect</a> ✧
+ ┃
+  <a href="#about-me">About Me</a> ·
+  <a href="#short-bio">Short Bio</a> ·
+  <a href="#languages--tools">Languages & Tools</a> ·
+  <a href="#connect-with-me">Connect</a> ·
   <a href="#buy-me-a-coffee">Buy Me A Coffee</a>
-〖
+ ┃
 </h4>
 <br>
 
 <!--- About Me (Concise) --->
+
+I'm a Software Engineer and perpetual builder thats looking to build 
+connections and projects that exist within their own mini-ecosystems.
+Whether it'
+
+I'm a Software Engineer that is always looking to build connections and
+build projects in their own mini-ecosystems. Whether I'm working on a 
+simple service, or working on my next startup within an ecosystem I
+always tend to build a project 
+
+that crafts systems and builds
+
+
 
 I'm a Software Engineer that crafts systems and builds connections with
 the work I do into ecosystems. Whether I'm working on **agentic architecture**
@@ -25,11 +38,11 @@ I feel the most at home when I am building something, moving towards something,
 thinking of ideas that will force me to become a better developer. Heck, Hikarian
 Forge is being built for that exact purpose!
 
-- 📤 I’m currently working on **[Hikarian Forge](https://github.com/hikarian-forge)**
-- 📥 I’m currently learning **Lua, C#** and primarily focused in **Software Engineering**
+- 📤 I'm currently working on **[BitKat Interactive](https://github.com/BitKat-Interactive)**
+- 📥 I’m currently learning **Go, C#** and primarily focused in **Software Engineering**
 - 📝 Ask me about **Python, Tanstack** and **AI/Agentic Architecture**
 - 📬 Reach me at:
-  - [LinkedIn](https://www.linkedin.com/in/hikue/) ✧ [CodePen](https://codepen.io/Hi-kue) ✧ [Gmail](mailto:hikue.primary@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/hikue/) · [CodePen](https://codepen.io/Hi-kue) · [Gmail](mailto:hikue.primary@gmail.com)
 
 <!--- About Me (Linux-Style) --->
 ## Short Bio
@@ -54,18 +67,18 @@ Language.Real: English, Urdu
 Focus:
 ---
 Focus.Role: Software Engineer
-Focus.Languages.Core: Python, C#, Lua
+Focus.Languages.Core: Python, C#, Go
 Focus.Languages.Other : Rust?, Lua?, Java?
 Focus.Tools.Frameworks: Tanstack, React, Spring & Spring Boot, FastAPI
 Focus.Tools.Database: PostGreSQL, Oracle, SQLite
-Focus.Tools.DevOps: Jenkins, Docker, Github Actions
+Focus.Tools.DevOps: Jenkins, Docker, Github Actions, Kubernetes, Ansible, JFrog
 Focus.Tools.Other: Blender, Figma, Godot (v4.x), Obsidian, Bruno
 
 
 Hobbies:
 ---
 Hobbies.Coding: Coding, Designing (UI/UX), 3D Modelling, Game Development 
-Hobbies.Extra: Reading, Bodybuilding
+Hobbies.Extra: Reading, Bodybuilding, Farming
 
 
  ,_     _
@@ -91,6 +104,7 @@ and for those around me.
 
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=306998&logoWidth=25)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=plastic&logo=go&logoColor=306998&logoWidth=25)
 ![Lua](https://img.shields.io/badge/Lua-323330?style=plastic&logo=lua&logoColor=306998&logoWidth=25)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F0DB4F&logoWidth=25)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white&logoWidth=25)

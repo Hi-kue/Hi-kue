@@ -12,9 +12,6 @@
   <a href="#buy-me-a-coffee">Buy Me A Coffee</a>
 〖
 </h4>
-<div align="center">
-    <img alt="Hikue Visitor Stats" src="https://widgetbite.com/stats/Hi-kue"/>  
-</div>
 <br>
 
 <!--- About Me (Concise) --->

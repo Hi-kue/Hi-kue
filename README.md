@@ -55,7 +55,7 @@ Title: Software Engineer @ Connectome
 Location: Canada
 Timezone: EST
 OS: Windows 11, Linux (Ubuntu, POP!_OS)
-Uptime: 21 Years, 10 Months
+Uptime: 22 Years, 8 Months
 Kernel: 5.4.0-91-generic
 
 
